@@ -1,0 +1,6 @@
+{
+  "name": "CodeMaster Academy",
+  "description": "A comprehensive, AI-powered interactive programming education platform teaching software engineering, coding, DevOps, web development, algorithms, databases, and cybersecurity.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
